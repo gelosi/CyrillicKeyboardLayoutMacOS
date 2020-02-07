@@ -1,17 +1,45 @@
 # CyrillicKeyboardLayoutMacOS
-
-
-# Cyrillic Keyboard Layout for MacOS
 Alternative to the flags, nice looking minimalistic keyboard layout for MacOS
 
-Layouts are based on RU_PC lauout. Because it's nicely mapped to the English (International!) and Cyrillic hardware keyboards. Therefore, primary actions are just like on the russian mac keyboard. Alr+ letter allows to have the rest of special cyrillic lettes from Ukrainian alphabet, for instance.
+Layouts are based on **Russian - PC** lauout. Because it's nicely mapped to the English (International!) and Cyrillic hardware keyboards. Therefore, primary actions are just like on the russian mac keyboard. Alr+ letter allows to have the rest of special cyrillic lettes from Ukrainian alphabet, for instance.
 
-Since I still haven't figured out how to support dark & light theme in one bundle, I'm using two bundles – for CyrillicBlack & CyrillicWhite respectively – only difference is the icon in the bundle.
+Since I still haven't figured out how to support dark & light theme in one bundle, I'm using two bundles – based on icon color inside bundle: CyrillicBlack & CyrillicWhite respectively.
 
 ![GIF DEMO OF ICONS DARK THEME](https://j.gifs.com/r8NY2E.gif)
 
-
 ### how to choose
 
-- Dark Theme: Use White
-- Dark Theme: Use Black
+Layout files named after real color of the embedded icon
+
+- Dark Theme: Use CyrillicWhite
+- Light Theme: Use CyrillicBlack
+
+
+## How to install
+
+1. Open Finder
+2. Press ⇧+⌘+G (Shift+Cmd+G) – this action will show a dialog where you can type direct location of the folder you wan to go
+3. Paste or type into that dialog window the following path: `~/Library/Keyboard Layouts`
+4. You shoud have Finder window with proper folder open at this moment
+5. Choose one (or both) keyboard layout files, and copy them to the recently opened folder
+6. RESTART YOUR MAC (no kidding)
+7. Go to the keyboard preferences, input sources, choose Russian – you should be able to find then Cyrillc variation of the layout
+
+Done
+
+### Contribution
+Feel free to help me to hack the icon settings for this bundle & format to avoid using 2 files, but have one, with the dynamically changing icon for dart/light/dunno_whatSnext theme
+
+### References
+Technical Note TN2056: Installable Keyboard Layouts
+![Link to Apple Documentation](https://developer.apple.com/library/archive/technotes/tn2056/_index.html)
+Human Interface Guidelines
+![Custom Icons](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/custom-icons/)
+![Dark Mode](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/dark-mode/)
+
+### Thanks!
+
+Ukelete: a great helper tool to create custom layouts!
+![Ukelete homepage](http://software.sil.org/ukelele/)
+
+
