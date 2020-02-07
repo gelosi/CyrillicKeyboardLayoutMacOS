@@ -1,7 +1,7 @@
 # CyrillicKeyboardLayoutMacOS
 Alternative to the flags, nice looking minimalistic keyboard layout for MacOS
 
-Layouts are based on **Russian - PC** lauout. Because it's nicely mapped to the English (International!) and Cyrillic hardware keyboards. Therefore, primary actions are just like on the russian mac keyboard. Alr+ letter allows to have the rest of special cyrillic lettes from Ukrainian alphabet, for instance.
+Layouts are based on **Russian - PC** lauout. Because it's nicely mapped to the English (International!) and Cyrillic hardware keyboards. Therefore, primary actions are just like on the russian mac keyboard. Alt+ letter allows to have the rest of special cyrillic lettes from Ukrainian alphabet, for instance.
 
 Since I still haven't figured out how to support dark & light theme in one bundle, I'm using two bundles – based on icon color inside bundle: CyrillicBlack & CyrillicWhite respectively.
 
