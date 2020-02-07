@@ -17,13 +17,23 @@ Layout files named after real color of the embedded icon
 
 ## How to install
 
+You have to copy one or both bunle files from this repo into proper location on your mac, then this alternative layout will become available among the other sources in the Keyboard settings...
+
+
+Here's locations you can use at step 3. of this manual:
+
+alternative layout available only to yourself/current user: `~/Library/Keyboard Layouts/`
+alternative layout available to all: `/Library/Keyboard Layouts/`
+System Keyboards layout file (not recommended location!) `/System/Library/Keyboard Layouts/`
+
+
 1. Open Finder
 2. Press ⇧+⌘+G (Shift+Cmd+G) – this action will show a dialog where you can type direct location of the folder you wan to go
 3. Paste or type into that dialog window the following path: `~/Library/Keyboard Layouts`
-4. You shoud have Finder window with proper folder open at this moment
+4. You shoud have Finder window with the proper target location open at this moment
 5. Choose one (or both) keyboard layout files, and copy them to the recently opened folder
 6. RESTART YOUR MAC (no kidding)
-7. Go to the keyboard preferences, input sources, choose Russian – you should be able to find then Cyrillc variation of the layout
+7. Do usual keyboard layout thing: go to the keyboard preferences, input sources, **choose Russian** – you should be able to find then Cyrillc variation of the layout
 
 Done
 
@@ -32,14 +42,14 @@ Feel free to help me to hack the icon settings for this bundle & format to avoid
 
 ### References
 Technical Note TN2056: Installable Keyboard Layouts
-![Link to Apple Documentation](https://developer.apple.com/library/archive/technotes/tn2056/_index.html)
+[Link to Apple Documentation](https://developer.apple.com/library/archive/technotes/tn2056/_index.html)
 Human Interface Guidelines
-![Custom Icons](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/custom-icons/)
-![Dark Mode](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/dark-mode/)
+[Custom Icons](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/custom-icons/)
+[Dark Mode](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/dark-mode/)
 
 ### Thanks!
 
 Ukelete: a great helper tool to create custom layouts!
-![Ukelete homepage](http://software.sil.org/ukelele/)
+[Ukelete homepage](http://software.sil.org/ukelele/)
 
 
