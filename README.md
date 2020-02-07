@@ -8,7 +8,7 @@ Layouts are based on RU_PC lauout. Because it's nicely mapped to the English (In
 
 Since I still haven't figured out how to support dark & light theme in one bundle, I'm using two bundles – for CyrillicBlack & CyrillicWhite respectively – only difference is the icon in the bundle.
 
-[![GIF DEMO OF ICONS DARK THEME](http://img.youtube.com/vi/RGSIQ5LoKuU/0.jpg)](https://j.gifs.com/r8NY2E.gif)
+![GIF DEMO OF ICONS DARK THEME](https://j.gifs.com/r8NY2E.gif)
 
 
 ### how to choose
