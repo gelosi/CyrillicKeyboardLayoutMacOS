@@ -33,7 +33,7 @@ System Keyboards layout file (not recommended location!) `/System/Library/Keyboa
 4. You shoud have Finder window with the proper target location open at this moment
 5. Choose one (or both) keyboard layout files, and copy them to the recently opened folder
 6. RESTART YOUR MAC (no kidding)
-7. Do usual keyboard layout thing: go to the keyboard preferences, input sources, search for `Cyrillic` in the list of avaliable input languages – you should be able to find it, and you will recongize it immediately because of the icon ї :)
+7. Do usual keyboard layout thing: go to the keyboard preferences, input sources, search for `Cyrillic` in the list of avaliable input languages – you should be able to find it, and you will recongize it immediately because of the icon `ї` :)
 
 Done
 
