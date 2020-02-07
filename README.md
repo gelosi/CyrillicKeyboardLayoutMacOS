@@ -41,9 +41,9 @@ Done
 Feel free to help me to hack the icon settings for this bundle & format to avoid using 2 files, but have one, with the dynamically changing icon for dark/light/dunno_whatSnext theme
 
 ### References
-Technical Note TN2056: Installable Keyboard Layouts
+#### Technical Note TN2056: Installable Keyboard Layouts
 [Link to Apple Documentation](https://developer.apple.com/library/archive/technotes/tn2056/_index.html) \
-Human Interface Guidelines
+#### Human Interface Guidelines
 [Custom Icons](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/custom-icons/) \
 [Dark Mode](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/dark-mode/)
 
