@@ -28,7 +28,7 @@ System Keyboards layout file (not recommended location!) `/System/Library/Keyboa
 
 
 1. Open Finder
-2. Press ⇧+⌘+G (Shift+Cmd+G) – this action will show a dialog where you can type direct location of the folder you wan to go
+2. Press ⇧+⌘+G (Shift+Cmd+G) – this action will show a dialog where you can type direct location of the folder you want to go
 3. Paste or type into that dialog window the following path: `~/Library/Keyboard Layouts`
 4. You shoud have Finder window with the proper target location open at this moment
 5. Choose one (or both) keyboard layout files, and copy them to the recently opened folder
