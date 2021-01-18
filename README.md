@@ -29,7 +29,7 @@ System Keyboards layout file (not recommended location!) `/System/Library/Keyboa
 Done
 
 ### Contribution
-Feel free to help me to hack the icon settings for this bundle & format to avoid using 2 files, but have one, with the dynamically changing icon for dark/light/dunno_whatSnext theme
+Feel free to share your ideas / hacks regarding better use of keyboard! Also, if you like to customize & store your keyboard layout – I'll be happy to link your repo.
 
 ### References
 ##### Technical Note TN2056: Installable Keyboard Layouts
