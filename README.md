@@ -43,6 +43,7 @@ Feel free to help me to hack the icon settings for this bundle & format to avoid
 ### References
 ##### Technical Note TN2056: Installable Keyboard Layouts
 [Link to Apple Documentation](https://developer.apple.com/library/archive/technotes/tn2056/_index.html)
+[Link to the hidden flag to support icon templates](https://github.com/tonsky/Universal-Layout/pull/22/files)
 ##### Human Interface Guidelines
 [Custom Icons](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/custom-icons/) \
 [Dark Mode](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/dark-mode/)
